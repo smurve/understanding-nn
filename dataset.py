@@ -61,7 +61,13 @@ def check_labels_file_header(filename):
 
 
 def download(directory, filename):
-    """Download (and unzip) a file from the MNIST dataset if not already done."""
+    """
+
+    :param directory:
+    :param filename:
+    :return:
+    """
+    # """Download (and unzip) a file from the MNIST dataset if not already done."""
     filepath = os.path.join(directory, filename)
     if tf.gfile.Exists(filepath):
         return filepath

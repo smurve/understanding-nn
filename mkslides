@@ -1,3 +1,2 @@
-#!/usr/bin/bash
 . venv/Scripts/activate
 jupyter nbconvert Presentation.ipynb --to slides --post serve

@@ -8,3 +8,4 @@ By no means is the content verified, scientifically sound or comprehensive.
 
 But still, I believe it's a pretty cool collection of things around neural networks that you may find at least inspiring...
 
+To get going, install virtualenv, some python3, numpy, matplotlib, tensorflow 1.7

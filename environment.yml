@@ -1,0 +1,9 @@
+name: nn_basic
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - numpy
+  - matplotlib
+  - seaborn
+  - tensorflow>=1.7.0

@@ -1,6 +1,8 @@
 ### (My humble glimpse on the) 
 # Current Understanding of Neural Networks
 
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/smurve/understanding-nn/master)
+
 I read a lot about neural networks, which has become quite an addiction. But I'm just a physicist gone astray.
 So the notebooks in here represent my current idea of what is published about the inner workings of neural networks.
 
